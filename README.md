@@ -12,3 +12,7 @@ The main goal is to demonstrate **simple UI components** used on a **single scre
 - All components are reusable.
 - Everything is on **one screen only**.
 - Used **state hoisting** for components to handle events (clicks, checked state, etc.).
+
+
+https://github.com/user-attachments/assets/22ac5937-560d-468e-bffa-b7dbdf0cc64e
+
