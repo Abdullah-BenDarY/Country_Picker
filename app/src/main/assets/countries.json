@@ -1,0 +1,102 @@
+[
+  {
+    "name": "Egypt",
+    "code": "+20",
+    "flag": "🇪🇬"
+  },
+  {
+    "name": "Saudi Arabia",
+    "code": "+966",
+    "flag": "🇸🇦"
+  },
+  {
+    "name": "United States",
+    "code": "+1",
+    "flag": "🇺🇸"
+  },
+  {
+    "name": "United Kingdom",
+    "code": "+44",
+    "flag": "🇬🇧"
+  },
+  {
+    "name": "France",
+    "code": "+33",
+    "flag": "🇫🇷"
+  },
+  {
+    "name": "Germany",
+    "code": "+49",
+    "flag": "🇩🇪"
+  },
+  {
+    "name": "Italy",
+    "code": "+39",
+    "flag": "🇮🇹"
+  },
+  {
+    "name": "Spain",
+    "code": "+34",
+    "flag": "🇪🇸"
+  },
+  {
+    "name": "Canada",
+    "code": "+1",
+    "flag": "🇨🇦"
+  },
+  {
+    "name": "Australia",
+    "code": "+61",
+    "flag": "🇦🇺"
+  },
+  {
+    "name": "United Arab Emirates",
+    "code": "+971",
+    "flag": "🇦🇪"
+  },
+  {
+    "name": "Kuwait",
+    "code": "+965",
+    "flag": "🇰🇼"
+  },
+  {
+    "name": "Qatar",
+    "code": "+974",
+    "flag": "🇶🇦"
+  },
+  {
+    "name": "Bahrain",
+    "code": "+973",
+    "flag": "🇧🇭"
+  },
+  {
+    "name": "Oman",
+    "code": "+968",
+    "flag": "🇴🇲"
+  },
+  {
+    "name": "Jordan",
+    "code": "+962",
+    "flag": "🇯🇴"
+  },
+  {
+    "name": "Lebanon",
+    "code": "+961",
+    "flag": "🇱🇧"
+  },
+  {
+    "name": "Morocco",
+    "code": "+212",
+    "flag": "🇲🇦"
+  },
+  {
+    "name": "Tunisia",
+    "code": "+216",
+    "flag": "🇹🇳"
+  },
+  {
+    "name": "South Africa",
+    "code": "+27",
+    "flag": "🇿🇦"
+  }
+]
